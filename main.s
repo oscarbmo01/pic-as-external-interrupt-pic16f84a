@@ -2,7 +2,7 @@
 ; File: main.s
 ; Author: Oscar Lira Gonzalez
 ; Device: pic16f84a
-; Description: on led
+; Description: Example of external interrupt used RB0/INT.
 ; Compilator: pic-as
 ;-------------------------------------------------------------------------------
     
