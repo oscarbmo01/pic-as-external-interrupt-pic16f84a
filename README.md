@@ -26,7 +26,7 @@ https://www.labcenter.com/
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/oscarbmo01/pic-as-hello-world.git
+    git clone https://github.com/oscarbmo01/pic-as-external-interrupt-pic16f84a.git
 
 2. Use the main.s file to record the microcontroller PIC16F84A
 
