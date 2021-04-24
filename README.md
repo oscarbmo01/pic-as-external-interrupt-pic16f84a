@@ -8,7 +8,7 @@ Example of external interrupt used RB0/INT for PIC16F84A, compiler pic-as.
 
 ### Built with
 
-* MPLAB
+* MPLAB IDE
 * PROTEUS
 
 ## Getting Started
