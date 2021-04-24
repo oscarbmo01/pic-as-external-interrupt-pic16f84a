@@ -1,0 +1,50 @@
+__S0 400 0 ABS 0
+__S1 0 0 ABS 0
+__S3 0 0 ABS 0
+__Hconfig 2008 0 CONFIG 4
+__Lconfig 0 0 CONFIG 4
+__HextIntRb0 0 0 ABS 0
+__LextIntRb0 0 0 ABS 0
+__HresetVec 0 0 ABS 0
+__LresetVec 0 0 ABS 0
+__Hcode 0 0 ABS 0
+__Lcode 0 0 ABS 0
+__Hdata 0 0 ABS 0
+__Ldata 0 0 ABS 0
+__Hudata_bank0 0 0 ABS 0
+__Ludata_bank0 0 0 ABS 0
+__Hedata 0 0 ABS 0
+__Ledata 0 0 ABS 0
+__Hudata 0 0 ABS 0
+__Ludata 0 0 ABS 0
+__Hspace_0 400 0 ABS 0
+__Lspace_0 0 0 ABS 0
+__Hspace_1 0 0 ABS 0
+__Lspace_1 0 0 ABS 0
+__Hspace_3 0 0 ABS 0
+__Lspace_3 0 0 ABS 0
+__Hspace_4 400F 0 ABS 0
+__Lspace_4 0 0 ABS 0
+%segments
+code 7EA 7FF CODE 7EA 0
+extIntRb0 7E0 7E9 CODE 7E0 0
+%locals
+build/default/production/main.o
+main.s
+41 3F5 0 CODE 0
+43 3F6 0 CODE 0
+44 3F7 0 CODE 0
+46 3F8 0 CODE 0
+47 3F9 0 CODE 0
+48 3FA 0 CODE 0
+50 3FB 0 CODE 0
+52 3FC 0 CODE 0
+54 3FD 0 CODE 0
+55 3FE 0 CODE 0
+56 3FF 0 CODE 0
+28 0 0 CODE 0
+32 3F0 0 CODE 0
+33 3F1 0 CODE 0
+34 3F2 0 CODE 0
+36 3F3 0 CODE 0
+37 3F4 0 CODE 0
