@@ -1,10 +1,10 @@
-# Hello World, PIC16F84A, pic-as compiler
+# External interrupt RB0/INT, PIC16F84A, pic-as compiler
 
 <img src="img/anime.png" width="20%" title="">
 
 ## About The Project
 
-External interrupt RB0/INT for PIC16F84A, compiler pic-as.
+Example of external interrupt used RB0/INT for PIC16F84A, compiler pic-as.
 
 ### Built with
 
