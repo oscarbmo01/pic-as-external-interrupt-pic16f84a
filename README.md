@@ -1,4 +1,4 @@
-# External interrupt RB0/INT, PIC16F84A, pic-as compiler
+# External interrupt RB0/INT, PIC16F84A.
 
 <img src="img/anime.png" width="20%" title="">
 
